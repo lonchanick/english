@@ -17,6 +17,9 @@ TEMAS PENDIENTES DE REVISAR
 *diferentes terminaciones de palabras como ness,ly,er,etc:
 *uso de "have" y "have got"
 *CONECTORS
+*pronunciacion de los numeros 
+*TRADUCCIONES: "But Jesus did not use his parables to teach abstract religious or moral ideals."
+
 
 ===========================
 	TEMP
@@ -29,17 +32,13 @@ uncertainty
 ===========================
 	Vocabulario
 ===========================
-exact,exacto
-speech,discurso
-rollercoaster,montaña rusa
-bumpy,baches (bacheado - con baches)
-ride,paseo (viaje - cabalgata)
-doomed
-dumpster,contenedor de basura
-handmade,artesanal (hecho a mano)
-nearby,cerca (cercano proximo)
-polite,cortés
-recycled,resiclado
+merchant,comerciante
+perch,posarse
+revolt,revelion (revuelta)
+yeast,levadura
+lump,terron (pedazo,bulto)
+wage,salario
+
 ===========================
 	Frases y Expresiones
 ===========================
