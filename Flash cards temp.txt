@@ -37,7 +37,11 @@ perch,posarse
 revolt,revelion (revuelta)
 yeast,levadura
 lump,terron (pedazo,bulto)
-wage,salario
+wage,salario (hacer la guerra)
+powerless,impotente
+inhabitants,habitantes
+outnumbered,superados en numero
+oddness,rareza
 
 ===========================
 	Frases y Expresiones
