@@ -40,6 +40,8 @@ conceal,ocultar (disimular)
 bury,enterrar
 preserve,preservar
 storehouse,almacen
+workforce,personal (fuerza de trabajo)
+inception,comienzo
 
 ===========================
 	Frases y Expresiones
