@@ -1,4 +1,4 @@
-﻿================
+================
       NOTAS
 ===================
 //aprender las estaciones del año (READY)
@@ -32,21 +32,18 @@ fate
 entrepreneur
 uncertainty
 impending
+conceal
 
 ===========================
 	Vocabulario
 ===========================
-coercion,coerción
-accomplishment,logro
-impressed,impresionado
-in the *span* of one day,lapso
+
 
 ===========================
 	Frases y Expresiones
 ===========================
-he was up to,El estaba haciendo
-As with,asi como
-thought of as,considerado como (...algol...)
+
+
 
 ==========================================
 	verbos frasales y palabras compuestas
@@ -60,8 +57,6 @@ wear - wore - worn,llevar (My dad always wears a tie.) - llevaba (Last Sunday I 
 dream ....
 stand,
 mistook,
-
-
 
 ============================
 Consejos para el parendizaje
