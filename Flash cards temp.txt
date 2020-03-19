@@ -6,8 +6,6 @@
 //agregar verbos irregulares a la rutina (READY)
 //hacer las flash card de palabras compuestas (READY)
 
-
-
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
@@ -18,7 +16,12 @@ TEMAS PENDIENTES DE REVISAR
 *uso de "have" y "have got"
 *CONECTORS
 *pronunciacion de los numeros 
-*TRADUCCIONES: "But Jesus did not use his parables to teach abstract religious or moral ideals."
+
+===========================
+	TRADUCCIONES
+===========================
+* But Jesus did not use his parables to teach abstract religious or moral ideals.
+* because they mistook their kingdom for God's.
 
 
 ===========================
@@ -28,30 +31,27 @@ scrawny
 fate
 entrepreneur
 uncertainty
+impending
 
 ===========================
 	Vocabulario
 ===========================
-criticize,criticar
-cloak,encubrir (capa - manto)
-riddles,acertijos
-ponder,reflexionar (meditar)
-conceal,ocultar (disimular)
-bury,enterrar
-preserve,preservar
-storehouse,almacen
-workforce,personal (fuerza de trabajo)
-inception,comienzo
+coercion,coerción
+accomplishment,logro
+impressed,impresionado
+in the *span* of one day,lapso
 
 ===========================
 	Frases y Expresiones
 ===========================
+he was up to,El estaba haciendo
 As with,asi como
+thought of as,considerado como (...algol...)
 
 ==========================================
 	verbos frasales y palabras compuestas
 ==========================================
-
+show up,aparecer
 
 ===========================
 	Irregular verbs
