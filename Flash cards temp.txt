@@ -47,11 +47,16 @@ lightning,relampago
 origin,origen
 brick,ladrillo
 consequence,consecuencia
+handy,comodo (practico -  a mano)
+hierarchical,jerárquico
+vow,voto
+payoff,recompensa (saldar)
+
 ===========================
 	Frases y Expresiones
 ===========================
 hurled headlong,lanzado de cabeza
-
+that is,es decir
 ==========================================
 	verbos frasales y palabras compuestas
 ==========================================
