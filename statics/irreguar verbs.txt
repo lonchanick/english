@@ -1,71 +1,84 @@
-Construir (INF - PAST SIM -  PARTI),build - built - built
-Gastar (INF - PAST SIM -  PARTI),spend spent spent
-Enviar (INF - PAST SIM -  PARTI),send sent sent
-Prestar (INF - PAST SIM -  PARTI),lend lent lent
+
+(1) VERBOS CON INFINITVO, PASADO Y PASADO-PARTICIPIO IGUALES 
+Costar ,cost - cost - cost
+Cortar ,cut - cut - cut
+Poner ,put - put - put
+Leer ,read - read - read
+
+(2) VERBOS CON INFINITIVO DE PRONUNCIACION /i Y PARTICIPIO Y PASADO /e
+Alimentar ,Feed - Fed - Fed
+Sangrar ,Bleed - Bled - Bled	
+Acelerar ,Speed - Sped - Sped
+Sentir (se) ,feel - felt - felt
+Dormir ,sleep - slept - slept
+Irse/Dejar ,leave - left - left
+
+(3) VERBOS CON PRONUNCIACION /i /a /u (PRESENTE/PASADO/P. PARTICIPIO)
+Empezar , begin - began - begun
+Beber ,drink - drank - drunk
+Correr ,run - ran - run
+Cantar ,sing - sang - sung
+
+(4) VERBOS CUYO INFINITIVO TERMINA EN /d Y PASADO Y PARTICIPIO EN /t
+Construir ,build - built - built
+Gastar ,spend - spent - spent
+Enviar ,send - sent - sent
+Prestar ,lend - lent - lent
+
+(5) VERBOS CUYO PASADO PARTICIPIO TERMINA EN /en
+Comer ,eat - ate - eaten
+Caer (se),fall - fell - fallen
+Dar ,give - gave - given
+Romper ,break - broke - broken
+Elegir ,choose - chose - chosen
+Olvidar ,forget - forgot - forgotten
+Conducir ,drive - drove - driven
+Hablar ,speak - spoke - spoken
+Tomar ,take - took - taken
 
 
-Costar (INF - PAST SIM -  PARTI),cost - cost - cost
-Cortar (INF - PAST SIM -  PARTI),cut - cut - cut
-Poner (INF - PAST SIM -  PARTI),put put put
-Leer (INF - PAST SIM -  PARTI),read read read
+(6) VERBOS CUYO PASADO Y P.PARTICIPIO TERMINAN EN /t
+Quemar ,burn - burnt - burnt
+Soñar ,dream - dreamt - dreamt
+Aprender ,learn - learnt - learnt
+Perder ,lose - lost - lost
 
 
-ser/estar (INF - PAST SIM -  PARTI),be - was/were - been
-Poder (INF - PAST SIM -  PARTI),can - could - been able to
-Hacer (INF - PAST SIM -  PARTI),do - did - done
+(7) VERBOS CUYO PASADO Y P.PARTICIPIO TERMINAN EN /ght
+Traer ,bring - brought - brought
+Enseñar ,teach - taught - taught
+Coger ,catch - caught - caught
+Pensar ,think thought - thought
+Comprar ,buy - bought - bought
+Luchar/Pelear ,fight - fought - fought
 
 
-Empezar (INF - PAST SIM -  PARTI), begin - began - begun
-Beber (INF - PAST SIM -  PARTI),drink - drank - drunk
-Correr (INF - PAST SIM -  PARTI),run ran run
-Cantar (INF - PAST SIM -  PARTI),sing sang sung
+(8) VERBOS CUYO PASADO Y P.PARTICIPIO ES IGUAL
+Tener/Haber ,have - had - had
+Oir ,hear - heard - heard
+Pagar ,pay - paid - paid
+Decir ,say - said - said
+Hacer ,make - made - made
+Ganar ,win - won - won
+Obtener ,get - got - got
+Entender ,understand - understood - understood
+	Soportar - Estar - Quedar,stand - stood - stood
 
 
-Romper (INF - PAST SIM -  PARTI),break - broke - broken
-Elegir (INF - PAST SIM -  PARTI),choose - chose - chosen
-Comer (INF - PAST SIM -  PARTI),eat - ate - eaten
-Caer (se) (INF - PAST SIM -  PARTI),fall - fell - fallen
-Olvidar (INF - PAST SIM -  PARTI),forget forgot forgotten
-Conducir (INF - PAST SIM -  PARTI),drive - drove - driven
-Dar (INF - PAST SIM -  PARTI),give gave given
-Ir (se) (INF - PAST SIM -  PARTI),go went gone
-Hablar (INF - PAST SIM -  PARTI),speak spoke spoken
-Tomar (INF - PAST SIM -  PARTI),take took taken
-Ver (INF - PAST SIM -  PARTI),see saw seen
+(9)VERBOS VARIOS
+ser/estar ,be - was/were - been
+Poder ,can - could - been able to
+Ver ,see - saw - seen
+Hacer ,do - did - done
+Ir (se) ,go - went - gone
+Tener que ,must - had to - had to
+Venir ,come - came - come
+Saber ,know - knew - known
+Mostrar Enseñar ,show - showed - shown
+Volar ,fly - flew - flown
+	usar(llevar puesto),wear - wore - worn
+	equivocar - confundir - malinterpretar,mistaken - mistook - mistaken
+	tirar - lanzar - hechar,throw - threw - thrown
 
 
-Traer (INF - PAST SIM -  PARTI),bring - brought - brought
-Sentir (se) (INF - PAST SIM -  PARTI),feel - felt - felt
-Dormir (INF - PAST SIM -  PARTI),sleep slept slept
-Enseñar (INF - PAST SIM -  PARTI),teach taught taught
-Coger (INF - PAST SIM -  PARTI),catch - caught - caught
-Pensar (INF - PAST SIM -  PARTI),think thought thought
-Comprar (INF - PAST SIM -  PARTI),buy - bought - bought
-Luchar/Pelear (INF - PAST SIM -  PARTI),fight fought fought
-Quemar (INF - PAST SIM -  PARTI),burn - burnt - burnt
-Soñar (INF - PAST SIM -  PARTI),dream - dreamt - dreamt
-Aprender (INF - PAST SIM -  PARTI),learn learnt learnt
-Irse/Dejar (INF - PAST SIM -  PARTI),leave left left
-Perder (INF - PAST SIM -  PARTI),lose lost lost
 
-
-Tener/Haber (INF - PAST SIM -  PARTI),have had had
-Oir (INF - PAST SIM -  PARTI),hear heard heard
-Tener que (INF - PAST SIM -  PARTI),must had to had to
-Pagar (INF - PAST SIM -  PARTI),pay paid paid
-Decir (INF - PAST SIM -  PARTI),say said said
-
-
-Hacer (INF - PAST SIM -  PARTI),make made made
-Entender (INF - PAST SIM -  PARTI),understand understood understood
-Ganar (INF - PAST SIM -  PARTI),win won won
-
-
-Saber (INF - PAST SIM -  PARTI),know knew known
-Mostrar Enseñar (INF - PAST SIM -  PARTI),show showed shown
-Alimentar (INF - PAST SIM -  PARTI),Feed Fed Fed
-Sangrar (INF - PAST SIM -  PARTI),Bleed Bled Bled	
-Acelerar (INF - PAST SIM -  PARTI),Speed Sped Sped
-Obtener (INF - PAST SIM -  PARTI),get got got
-Venir (INF - PAST SIM -  PARTI),come - came - come
-Volar (INF - PAST SIM -  PARTI),fly flew flown
