@@ -62,7 +62,7 @@ Hacer ,make - made - made
 Ganar ,win - won - won
 Obtener ,get - got - got
 Entender ,understand - understood - understood
-	Soportar - Estar - Quedar,stand - stood - stood
+Soportar - Estar - Quedar,stand - stood - stood
 
 
 (9)VERBOS VARIOS
@@ -76,9 +76,9 @@ Venir ,come - came - come
 Saber ,know - knew - known
 Mostrar Enseñar ,show - showed - shown
 Volar ,fly - flew - flown
-	usar(llevar puesto),wear - wore - worn
-	equivocar - confundir - malinterpretar,mistaken - mistook - mistaken
-	tirar - lanzar - hechar,throw - threw - thrown
+usar(llevar puesto),wear - wore - worn
+equivocar - confundir - malinterpretar,mistaken - mistook - mistaken
+tirar - lanzar - hechar,throw - threw - thrown
 
 
 
