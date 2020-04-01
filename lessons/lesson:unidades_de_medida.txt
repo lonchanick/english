@@ -1,0 +1,7 @@
+MAGNITUDES: Propiedad de los cuerpos que puede ser medida, como el tamaño, el peso o la extensión.
+
+alto - altura - mas alto,high - height - higher
+largo - longitud - mas largo, long - length -longer
+ancho - anchura - mas ancho,width - width -wider
+peso - mas pesado,weight - weighter
+tamaño,size
