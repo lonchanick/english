@@ -29,14 +29,8 @@ TEMAS PENDIENTES DE REVISAR
 ===========================
 	Vocabulario
 ===========================
-distort,distorsionar
-purposed,a proposito (intencionado)
-interwoven,interconectado
-slither,deslizarse
-crawl,arrastrarse
-belly,vientre
-grave,tumba
-outline,contorno
+convey
+
 
 	=======================
 		TEMP
