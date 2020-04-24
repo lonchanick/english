@@ -9,6 +9,9 @@
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
+-> agregar verbos irregulares en una sola unidad
+-> agregar las terminaciones en una sola unidad
+-> termina y agrega las lesson de preguntas de grupo
 ->......
 
 								(ALL READY)
@@ -29,18 +32,11 @@ TEMAS PENDIENTES DE REVISAR
 ===========================
 	Vocabulario
 ===========================
-convey
 
 
 	=======================
 		TEMP
 	=======================
-	scrawny
-	fate
-	entrepreneur
-	uncertainty
-	impending
-	conceal
 
 ===========================
 	Frases y Expresiones
