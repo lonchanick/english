@@ -10,8 +10,8 @@
 TEMAS PENDIENTES DE REVISAR
 ===========================
 -> agregar verbos irregulares en una sola unidad
--> agregar las terminaciones en una sola unidad
--> termina y agrega las lesson de preguntas de grupo
+-> agregar la leccion de terminaciones en una sola unidad
+-> termina y agrega las lesson: preguntas de grupo
 ->......
 
 								(ALL READY)
