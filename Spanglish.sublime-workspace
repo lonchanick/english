@@ -488,11 +488,19 @@
 	"buffers":
 	[
 		{
+			"file": "Flash cards temp.txt",
+			"settings":
+			{
+				"buffer_size": 2922,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "The Bible project/6) Water of Life - English.txt",
 			"settings":
 			{
-				"buffer_size": 4253,
-				"encoding": "UTF-8",
+				"buffer_size": 4208,
 				"line_ending": "Unix"
 			}
 		},
@@ -500,24 +508,8 @@
 			"file": "Quiz let/Vocabulario",
 			"settings":
 			{
-				"buffer_size": 125,
+				"buffer_size": 923,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Quiz let/Verbos Frasales",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Quiz let/Frases y expresiones",
-			"settings":
-			{
-				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -594,12 +586,18 @@
 	},
 	"expanded_folders":
 	[
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project"
 	],
 	"file_history":
 	[
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Vocabulario",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Verbos Frasales",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Frases y expresiones",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/6) Water of Life - English.txt",
 		"/home/israel/DEV/python_cursos/ar_python/python_ar.py",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Flash cards temp.txt",
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/6) Water of Life - English.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/preguntas_de_grupo.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/palabras_español.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Regla ingles.txt",
@@ -721,14 +719,11 @@
 		"/home/israel/DEV/proyectos/my_site/register/register.html",
 		"/home/israel/DEV/proyectos/my_site/register/urls.py",
 		"/home/israel/DEV/proyectos/my_site/register/tests.py",
-		"/home/israel/DEV/completo_django_girls/blog/models.py",
-		"/home/israel/DEV/completo_django_girls/blog/admin.py",
-		"/home/israel/DEV/completo_django_girls/blog/forms.py",
-		"/home/israel/DEV/completo_django_girls/blog/views.py"
+		"/home/israel/DEV/completo_django_girls/blog/models.py"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -742,6 +737,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"quen",
+			","
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -749,6 +746,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"&"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -759,57 +757,30 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "The Bible project/6) Water of Life - English.txt",
+					"file": "Flash cards temp.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4253,
+						"buffer_size": 2922,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1552,
-								1552
+								16,
+								16
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 968.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Quiz let/Vocabulario",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 125,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								123,
-								123
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -819,48 +790,48 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "Quiz let/Verbos Frasales",
+					"buffer": 1,
+					"file": "The Bible project/6) Water of Life - English.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 4208,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4208,
+								4208
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2462.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "Quiz let/Frases y expresiones",
+					"buffer": 2,
+					"file": "Quiz let/Vocabulario",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 923,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								220,
+								220
 							]
 						],
 						"settings":
@@ -920,7 +891,7 @@
 	"project": "Spanglish.sublime-project",
 	"replace":
 	{
-		"height": 58.0
+		"height": 79.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -966,7 +937,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 238.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
