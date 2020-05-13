@@ -495,6 +495,24 @@
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/9.1) Overview_ Acts Ch. 1-12 - English.txt",
+			"settings":
+			{
+				"buffer_size": 8263,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Vocabulario",
+			"settings":
+			{
+				"buffer_size": 3006,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -569,12 +587,15 @@
 	},
 	"expanded_folders":
 	[
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish"
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project"
 	],
 	"file_history":
 	[
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/sublime_text_project/Quiz let/Vocabulario",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/New Testament Letters_ Historical Context.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Vocabulario",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/sublime_text_project/Quiz let/Vocabulario",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/7) New Testament Letters_ Literary Context.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Flash cards temp.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/lessons/irreguar verbs.txt",
@@ -699,12 +720,11 @@
 		"/home/israel/DEV/python_cursos/inmersion_en_python3/archivos_de_muestra/test_file#5.xml",
 		"/home/israel/DEV/completo_django_girls/blog/templates/blog/post_detail.html",
 		"/home/israel/DEV/proyectos/my_site/register/admin.py",
-		"/home/israel/DEV/proyectos/my_site/register/register.html",
-		"/home/israel/DEV/proyectos/my_site/register/urls.py"
+		"/home/israel/DEV/proyectos/my_site/register/register.html"
 	],
 	"find":
 	{
-		"height": 31.0
+		"height": 44.0
 	},
 	"find_in_files":
 	{
@@ -735,7 +755,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -763,7 +783,63 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/The Bible project/9.1) Overview_ Acts Ch. 1-12 - English.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8035,
+								8035
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4168.0,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Vocabulario",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								12
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -858,7 +934,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 276.0,
+	"side_bar_width": 187.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
