@@ -1,20 +1,23 @@
-================
-      NOTAS
-================
-//aprender las estaciones del año (READY)
-//Hacer un modulo de comida (READY)
-//agregar verbos irregulares a la rutina (READY)
-//hacer las flash card de palabras compuestas (READY)
-
+Tu aprendizaje debe estar entorno a estas actividades
+-> Memorizing
+-> Listening
+-> Reading
+-> writing
+-> Speaking
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
--> agregar verbos irregulares en una sola unidad
--> agregar la leccion de terminaciones en una sola unidad
+-> consulta terminaciones de palabras en ingles Ej. ment (establishment accomplishment etc)
 -> termina y agrega las lesson: preguntas de grupo
 ->......
 
 								(READY)
+	-> aprender las estaciones del año (READY)
+	-> Hacer un modulo de comida (READY)
+	-> agregar verbos irregulares a la rutina (READY)
+	-> hacer las flash card de palabras compuestas (READY)
+	-> agregar la leccion de terminaciones en una sola unidad 25/05/2020
+	-> agregar verbos irregulares en una sola unidad 25/05/2020
 	-> aint: https://grupovaughan.com/a/que-demonios-es-eso-de-aint/ (25/03/2020 PRACTICING)
 	->shall:https://whatsup.es/blog/como-utilizar-shall-en-ingles-consejos-de-uso
 	->uso de ever:https://www.aprendemasingles.com/2014/04/01/vocabulario-ejemplos-del-uso-de-ever-y-never/
@@ -49,7 +52,7 @@ TEMAS PENDIENTES DE REVISAR
 ===========================
 	Irregular verbs
 ===========================
-rise rose rosen
+
 ============================
 Consejos para el parendizaje
 ============================
@@ -64,6 +67,8 @@ un tiempo para subrayar, tomar apuntes, investigar y practicar.
 
 -> la intensidad de un ejercicio debe estar apenas fuera de tu zona de confort, de tal manera no te frustras y planteas un objetivo alcanzable (NADA MUY INTENSO PARA TU NIVEL)
 
+-> Saber descomponer palabras (vocabulario) a su forma basica es esencial, Pj toma un verbo que esta en pasado y llevarlo a su forma mas simple, es decir infinitivo. para ello es necesario saber siertas reglas gramaticales como la formacion del pasado de un verbo, su forma en participio, su forma en singular, etc ademas de diferentes terminaciones que una palabra podria adquirir Pj. accomplish -> acomplishment
+
 
 ===================
 Cosas del ingles
@@ -75,14 +80,16 @@ de traducciones distintas
 
 3) la conjuncion de varias palabras (conocidas) 
 pueden significar algo totalmente desconocido (palabras compuestas)
+ej. never mind
 
+4) una palabra puede ser un sustantivo y un verbo a la ves ej. bench -> banca ; exhibir
 
 =================================
 palabras con muchas traducciones
 =================================
 beat
 lead
-
+get
 
 
  
