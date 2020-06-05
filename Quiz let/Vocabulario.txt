@@ -1,13 +1,50 @@
+scores&montones
+unhindered |||||||||||||||||||||||||||||||||||||||
+long after&mucho despues ||||||||||||||||||||||||
+imprisonment&encarcelamiento
+orchestrates&orquestar
+hardly&dificilmente
+stick&pegarse ; adherirse
+trial&juicio
+precedes
+pose
+dismiss
+subversive
+futile
+clash
+demonstrators&manifestantes
+namely
+==================================================
+committee&comité
+neat&pulcro ; ordenado
+cite&citar
+climate&clima
+climb&(verb) escalar ; (sus) escalada
+command&(verb) mandar ; ordenar (sus) orden ; comando
+clothing&vestimenta
+commit&cometer
+cluster& (verb) agrupar ; (sus) racimo
+commitment&compromiso
+coal&carbón
+coalition (def. formed by two or more parties working together)&coalición (def. Union entre dos partes)
+compete&competir
+->
 dare&atreverse
 growl&gruñir ; gruñido
 oppose&oponerse
 groundbreaking&innovadora ; pionera
 undertake&emprender
-hyphens
-desirable
+hyphen&guión
+desirable&deseable
 constraint&restricción
-plan out
-==================================================
+chamber(def. a hall in a public building that is used for formal meetings)&camara (def. un salon en un edificio publico que es usado para reuniones formales)
+championship&campeonato
+characterize&caracterizar
+chart&gráfico
+chase (def. to run, drive, etc. after somebody/something in order to catch them or it. ej. My dog likes chasing rabbits)&perseguir (def. ir tras de algo o alguien)
+chemical&químico
+chest&cofre
+->
 colleague&colega
 afresh&de nuevo
 lifelong&para toda la vida ; de por vida
