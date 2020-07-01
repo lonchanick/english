@@ -1,20 +1,149 @@
-scores&montones
-unhindered |||||||||||||||||||||||||||||||||||||||
-long after&mucho despues ||||||||||||||||||||||||
+command&dominio (def. de tener abilidad en algun tema)
+bias - n. a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly
+trail&rastro
+bias
+aimed&dirigidas a
+inequitable&no equitativo
+incitement //descompone
+
+
+
+
+
+
+
+
+
+==================================================
+-> defendant&acusado ; demandado ; defendido
+spotlight&centro de atención ; reflextor
+perpetuate&perpetuar
+denial&negación
+cop-out (def. a way of avoiding doing something that you should do, or an excuse for not doing it)&evadir
+supporter&partidario
+pull over (of a vehicle or its driver def. to move to the side of the road in order to stop or let something)&detenerse (habalndo de un vehiculo)
+decrease&disminución
+scuffle&riña
+aftermath&secuelas
+state&declarar
+decade&década
+deck&cubierta ; baraja
+decline& (verb) declinar ; (sus) disminución
+deer&ciervo
+
+discredited&desacreditado
+anchorman&comunicador
+critique&crítica
+forgery&falsificación
+accountable (def. adj. take responsibility for)&(adj) responsable (def. tomar la responsabilidad por algo)
+truthful&veraz
+vaccine&vacuna
+endorse&avalar
+rape&(verb)violar ;(sus)violación
+endanger (ej. The health of our children is being endangered by exhaust fumes)&poner en peligro
+Highbrow&intelectual
+perplexed&perprejo
+press&(verb) presionar ;(sus) presión 
+
+- > deal&(verb) negociar ; (sus) acuerdo
+custom&personalizado
+crop&(verb) cosechar ; (sus) cosecha ; cultivo
+criteria&criterio
+Suddenly&de repente
+appear&aparecer
+grease&grasa
+divert&desviar ; divertir
+mass (def. a large amount of a substance that does not have a definite shape or form)&masa
+uplifting&edificante
+widespread&extenso ; extendido
+fuel&(verb) combustible ; (sus) avivar ; (adj) energético
+filth&porqueria ; inmundicia
+rare&raro
+wealth&riqueza
+
+coverage&cobertura (de medios o tambien indica un rango de algo donde se aplica determinada clausula ej. cobertura de seguro)
+courage&valor ; coraje
+counselor&consejero
+cope (def.  He wasn't able to cope with the stresses and strains of the job)&hacer frente a
+thief&ladrón
+-> cream&crema
+craft&arte ;  oficio
+convince&convencer
+contract&contrato
+contest&concurso
+consumption&consumo (ej. consumo energético)
+constitute&constituir
+considerable&considerable
+consider&considerar
+consciousness (def. the state of being able to use your senses and mental powers to understand what is happening Ej. I can't remember any more—I must have lost consciousness)&conciencia (def. Estado que permite el uso de sus sentidos)
+regain&recuperar
+
+mismanaged&mal administrado
+wronged&even if you’re wronged.  ==  incluso si eres perjudicado.
+belittle (def. to make somebody, or the things that somebody does, seem unimportant Ej.She felt her husband constantly belittled her achievements)&minimizar ; desestimar
+vent&(verb) desahogar ; (sus) respiradero
+blow up&explotar
+mislead&engañar
+examine&examinar
+credible&creíble
+gunman&pistolero
+mushroom&hongo
+strength&fuerza
+boast&presumir
+in the meantime&mientras tanto
+->
+confidence&confianza
+concrete&cemento
+concert&concierto
+concern&(verb) referirse ; (sus) preocupación ; asunto 
+comprehensive&exhaustivo
+compose&componer
+complaint&(sus) queja ; denuncia ; reclamación
+cornerstone&piedra angular
+shatter&destrozar
+fled&hulló
+floppiness&flojera
+anguish&(verb) angustiar ; (sus) angustia
+
+readily&de buena gana ; facilmente
+glimpse&vislumbrar
+sorrow&(sus) dolor ; pena ; tristeza ; pesar
+floodgates&compuertas
+bigotry&fanatismo
+outward&el exterior
+plain&evidente
+bribe&soborno
+treat (ej. to treat people with dignity)&tratar (def. tener un particular comportamiento hacia algo o alguien)
+thoughtless (def. not caring about the possible effects of your words or actions on other people)&desconsiderado (def. no preocuparse por los posibles efectos de sus palabras o acciones)
+unpleasant&desagradable
+voyage&travesía
+The most often&la mayoría de las veces
+fig&higo
+workshop(a period of discussion and practical work on a particular subject, in which a group of people share their knowledge and experience)&taller(def. periodo de discucion y trabajo practico donde se comparte expreciencia sobre un tema determinado)
+Substance&sustancia
+elderly&anciano
+pantries (def. a cupboard or small room in a house, used for storing food)&despensa ; bodega
+hollow&hueco (sus and verb)
+pious&piadoso
+mortgage&(sus)hipoteca ; (verb) hipotecar
+line up (ej.  What they say about their faith and how they choose to live don’t line up)&alinearse
+decree&(verb) decretar ; (sus) decreto
+scores&los montones
+unhindered&sin obstáculo
+long after&mucho despues
 imprisonment&encarcelamiento
 orchestrates&orquestar
 hardly&dificilmente
 stick&pegarse ; adherirse
 trial&juicio
-precedes
-pose
-dismiss
-subversive
-futile
-clash
+precede&preceder
+pose&actitud
+dismiss&descartar
+subversive&subversivo
+futile&fútil
+clash&(verb) chocar ; (sus) choque
 demonstrators&manifestantes
-namely
-==================================================
+namely&es decir (utilizado para intriduccir informacion mas presisa)
 committee&comité
 neat&pulcro ; ordenado
 cite&citar
