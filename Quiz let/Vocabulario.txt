@@ -1,20 +1,90 @@
+=====================
+ flashcards - reglas
+=====================
+	* La definicion va a la derecha (en definicion)
+	* El orden de la traduccion (a la derecha en definicion) es: VERBO ; SUSTANTIVO ; ADEJTIVO [DEFINICION y EJEMPLO] (en caso de que dicha palabra cuente con estos tres modos)
+	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
+
+curfew&toque de queda
+landfills&vertederos
+due&debido (def. caused by somebody/something)
+Aim&Objetivo ; proposito ; apuntar (def. to try or plan to achieve something)
+Britain&bretaña
+bar,prohibir
+Parliament
+defector
+==================================================
+stress&énfasis (Creo)
+stir&conmover
+toll&peaje
+whichever&cualquiera
+outdated&anticuado
+prone&propenso
+excerpt&extracto
+suffice&suficiente ; satisfacer
+coffin&ataúd
+worsen&empeorar
+Yet&sin embargo
+unlawful&ilegal
+albeit&aunque
+Rusty&oxidado
+aimlessly&sin rumbo fijo ; sin dirección ; sin proposito
+Recall&recordar
+cumbersome&incómodo (ej. cumbersome machinery def large and heavy; difficult to carry; slow and complicated)
+prepend&anteponer
+as is &tal cual
+barring&excepto por ; a menos que haya (ej. Barring accidents, we should arrive on time)
+ghost&fantasma
+downing&devorar
+went on&siguió
+right up&hasta
+shelter&(sus) abrigo ; (verb) albergar
+haste&prisa (ej. doing something very quickly)
+worn&desgastado
+foreigner&extranjero
+tuition&matrícula (ej. money that is paid to a school for the right to study there)
+provide&proporcionar
+aides&ayudante
+doses&dosis
+adjuvant&auxiliar
+enactment&promulgación
+guaranteed&garantizado
+(passage) the passage of unpopular laws & la aprobación de leyes impopulares
+secession&secesión (ej. the act of separating from a nation or state)
+grounds&motivos (def. the reason for doing or believing something)
+due diligence&diligencia (def. research and analysis of a company or organization often done in preparation for a business transaction)
+Withdrawal&Retirada
+weaken&debilitar
+fees&Tarifa
+shortsighted&miope ; corto de vista
+senselessness&insensatez
+crippling&paralizar ; (sus) lisiado (def. damaging somebody's body so that they are no longer able to walk or move normally Ej.She wrote in a Twitter message, “With millions of lives at risk, the president is crippling the international effort to defeat the virus.”)
+enforcing& hacer cumplir (def. to make sure that people obey a particular law or rule Ej. It's the job of the police to enforce the law)
+uttered fewer&Pronunciar (ej. had uttered fewer words than any of them)
+
 command&dominio (def. de tener abilidad en algun tema)
-bias - n. a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly
+bias (def. a tendency to believe that some people, ideas, etc., are better than others that usually results in treating some people unfairly)&sesgo
 trail&rastro
-bias
 aimed&dirigidas a
 inequitable&no equitativo
-incitement //descompone
+incitement&incitación
+tyrant&tirano
+distress&angustia
+lure&(verb) seducir ; (sus) señuelo
+gossip&chisme
+discrepancy&discrepancia
+outline&describir ; perfilar ; resumir ; explicar (def. to give a description of the main facts or points involved in something)
+deceptive&engañoso
+vigilant&vigilante (def. carefully noticing problems or signs of danger)
+disrupt&interrumpir
+retail&ventas al por menor
+developments&acontesimientos
+spokesman&portavoz ; vocero (def. responsable de una organización para dirigirse a los medios)
+swine flu&la gripe porcina
+hallmark (def. quality that is typical of a particular person or thing)&sello distintivo
+highlight (def. make people notice or aware of something)& (ver) destacar ; (sus) resaltar ; punto culminante
+surveillance&supervisión (def. the act of carefully watching someone or something)
 
-
-
-
-
-
-
-
-
-==================================================
 -> defendant&acusado ; demandado ; defendido
 spotlight&centro de atención ; reflextor
 perpetuate&perpetuar
