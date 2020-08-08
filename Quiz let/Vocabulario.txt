@@ -1,19 +1,83 @@
 =====================
  flashcards - reglas
 =====================
-	* La definicion va a la derecha (en definicion)
 	* El orden de la traduccion (a la derecha en definicion) es: VERBO ; SUSTANTIVO ; ADEJTIVO [DEFINICION y EJEMPLO] (en caso de que dicha palabra cuente con estos tres modos)
 	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
+	* Tratar de incluir la definicion de la mayoria de los terminos
+	* La definicion siembre debe ir alado del termino (en ingles)
 
+
+	phrasal verb
+	ride out&to manage to survive a difficult situation or time without having to make great changes
+
+dominant&dominante
+argue&discutir
+divide&dividir
+diverse&diverso
+district (def. an area of a country or town, especially one that has particular features)&distrito
+distinguish (def. to recognize the difference between two people or things)&distinguir
+distinct&distinto
+distance&distancia
+disorder (def.  an illness that causes a part of the body to stop functioning correctly)&trastorno
+dismiss (def. to decide that somebody/something is not important and not worth thinking or talking about)&descartar
+disease&enfermedad
+discuss&discutir
+discovery&descubrimiento
+discourse&discurso
+discipline&disciplina
+disaster&desastre
+disappear&desaparecer
+disagree&desacuerdo ; discrepar
+dirt&suciedad
+dining (Ej. A patio area just outside the house is ideal for outdoor dining)&comida
+dig&cavar
+
+==================================================
+differ&diferir de
+wet&mojado
+owe&deber
+diet&dieta
+dialogue&diálogo
+devote&dedicar
+destroy&destruir
+despite&a pesar de (def. used to show that something happened or is true although something else might have happened to prevent it Ej. Her voice was shaking despite all her efforts to control it)
+desperate&desesperado
+design&diseño
+desert&desierto(def. a large area of land that has very little water and very few plants growing on it. Many deserts are covered by sand Ej. the Sahara Desert)
+derive&derivar
+deputy&diputado
+depth&profundidad
+depict&representar (def. to show an image of somebody/something in a picture Ej. The artist had depicted her lying on a bed)
+deny&negar (def.  to say that something is not true Ej. He has denied any involvement in the incident)
+demonstrate&demostrar (def. to show something clearly by giving proof or evidence Ej. New research convincingly demonstrates that age-related memory loss is not inevitable)
+democracy&democracia(def. a system of government in which the people of a country can vote to elect their representatives Ej. the principles of democracy)
+deliver&entregar (def. to take goods, letters, etc. to the person or people they have been sent to Ej. I get my food delivered from the supermarket to save time.)
+deficit&déficit (def. the amount by which money spent or owed is greater than money earned in a particular period of time Ej. The trade balance has been in deficit for the past five years)
+disowned&renegar de (def. to decide that you no longer want to be connected with or responsible for somebody/something Ej. Her family disowned her for marrying a foreigner)
+censorship&the process of removing opinions from books, movies, letters and other media
+
+scholarship&beca
+great&Excelente
+depressed&deprimido
+overrule&anular ; desautorizar (def. to change a decision or reject an idea from a position of greater power)
+farewell&despedida (def. the act of saying goodbye to somebody)
+scent&Olor ; Perfume (def. the pleasant smell that something has Ej. The air was filled with the scent of wild flowers)
+soap&jabón
+Gone are&quedaron atras ; se fueron (Ej. Gone are handshakes, kisses and hugs)
+amid&en medio (def. in the middle of or during something, especially something that causes excitement or fear Ej. He finished his speech amid tremendous applause.)
+sightseeing&turismo
+shrink&encoger (def. to become smaller)
+rage&rabia (def. a feeling of violent anger that is difficult to control Ej. He flies into a rage if you even mention the subject.)
+strive&esforzarse (def. to try very hard to achieve something Ej. They were always striving towards perfection.)
 curfew&toque de queda
 landfills&vertederos
 due&debido (def. caused by somebody/something)
 Aim&Objetivo ; proposito ; apuntar (def. to try or plan to achieve something)
 Britain&bretaña
-bar,prohibir
-Parliament
-defector
-==================================================
+bar&prohibir
+Parliament&parlamento
+defector&desertor (def. a person who leaves a political party, country, etc. to join another that is considered to be an enemy)
+
 stress&énfasis (Creo)
 stir&conmover
 toll&peaje
