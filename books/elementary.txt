@@ -1,0 +1,21 @@
+=====================================
+	PARENTESCO/FAMILIA
+=====================================
+niece
+uncle
+aunt
+widowed
+SEPARATED
+divorsed
+bride
+groom
+
+EXCERCISES
+2.1 ...
+1..
+2 My uncle Omar was born in colombia on july 4th 1950
+3 My uncle Rosalvo was born in brazil on agust 10th 1955
+4 My aunt Rosa was born in Ecuador on february 8th 1922
+6 My uncle David was born in Britain on january 1985
+
+
