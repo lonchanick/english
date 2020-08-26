@@ -6,6 +6,10 @@
 	* Tratar de incluir la definicion de la mayoria de los terminos
 	* La definicion siembre debe ir alado del termino (en ingles)
 
+=====================
+ 	PENDIENTES
+=====================
+CROP -> cultivo
 
 ==================================================
 
@@ -13,13 +17,71 @@ FROM: https://www.reasonablefaith.org/reasonable-faith-video-podcast/atheist-spe
 peers
 tainted
 slanted
-assert
-indeed
+assert ||||||||||||||||||
+indeed ||||||||||||||||||
 conflating
 asserts
 either(TREMENDO LIO)
-
+reputable
+commendable&recomendable
+breakthrough - Trump called it “a breakthrough.” - un gran avance
+stance
 ==================================================
+roughly&aproximadamente ; toscamente
+brackets&paréntesis
+elderly&mayor anciano
+beard&barba
+trainers&zapatos deportivos
+trouser&pantalon
+->grant (Ej. My request was grantedDef. to agree to give somebody what they ask for, especially formal or legal permission to do something)
+flight&vuelo
+forth&adelante
+funding (Ej. There have been large cuts in government funding for scientific research.Def. money for a particular purpose; the act of providing money for such a purpose)&fondos
+hip&cadera
+waist&cintura
+furthermore(Ej. He said he had not discussed the matter with her. Furthermore, he had not even contacted her. Def. ​in addition to what has just been stated. Furthermore is used especially to add a point to an argument)&además
+gang (Ej. Several gang members have been arrested)&pandilla
+gap (Ej. There are huge gaps in their knowledge.)&brecha
+garlic&ajo
+gate (Ej. He pushed open the garden gate.)&portón
+steadily (Ej. to look steadily at somebody..)&continuamente ; sostenidamente ; fijamente
+gaze (Ej. She gazed at him in amazement. Def.to look steadily at somebody/something for a long time, either because you are very interested or surprised, or because you are thinking of something else)&mirada ; mirar con fijeza
+gear (Ej. The car pulled up with a screech of brakes and a grinding of gears)&engranaje ; marcha
+gesture (Ej. He made a rude gesture at the driver of the other car)&gesto
+gift (Ej. He knew from an early age he had a special gift)&regalo ; don ; donación
+glad (Ej. I passed the test! I’m so glad)&encantado ; contento
+golden(Ej. a golden crown)&dorado
+grab (Ej. She grabbed his arm as he got up to leave.)&agarrar ; coger
+grain (Ej. Russia sold 12 million tons of grain abroad last year.)&grano
+grand (Ej. It's not a very grand house)&grandioso ; magnifico
+==================================================
+
+longstanding&de larga data ; que existe desde hace mucho tiempo
+replacement&reemplazo
+top court&tribunal supremo
+bumps (Ej. bumps in the highway)&Topes
+fined&multado
+antitrust&antimonopolio
+->fit&ajuste
+finance&finanza
+fiber&fibra
+fewer&menos
+fool&tonto ; engañar
+that struck me&Eso me llamó la atención
+the get-go&el comienzo
+Looks like&parece
+manmade&artificial
+unknowns&incógnitas
+species&especies
+oats&avena
+wheat&trigo
+inefficiency&ineficiencia
+grim&severo
+antennae&antenas
+locust&langosta
+lead&dirigir
+swarm&enjambre
+observance (def. the practice of obeying a law, celebrating a festival or behaving according to a particular custom Ej. a strict observance of the Sabbath)&observacia
 -> fellow&colega ; compañero
 burst&estallar
 fate&destino
@@ -41,7 +103,6 @@ adventurous&aventurero
 cuisines&cocina
 nationwide (Ej. But Chinese food is the top ethnic food nationwide)&A lo lago de la nacion ; A nivel nacional
 dwarf&enano
-==================================================
 -> engineer&ingeniero
 auction&subasta
 facing&de frente a ; orientado a
