@@ -5,28 +5,17 @@
 	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
 	* Tratar de incluir la definicion de la mayoria de los terminos
 	* La definicion siembre debe ir alado del termino (en ingles)
+	* El ingles no se pronuncia como se escribe, por lo tanto concentrate en escuchar he identificar (understanding) palabras mas no en su escritura (eso podria quedar para despues)
 
 =====================
  	PENDIENTES
 =====================
-CROP -> cultivo
 
-==================================================
-
-FROM: https://www.reasonablefaith.org/reasonable-faith-video-podcast/atheist-speaks-to-veritas-forum/
-peers
-tainted
-slanted
-assert ||||||||||||||||||
-indeed ||||||||||||||||||
-conflating
-asserts
-either(TREMENDO LIO)
-reputable
-commendable&recomendable
-breakthrough - Trump called it “a breakthrough.” - un gran avance
-stance
-==================================================
+sunbathing&broncearse
+engulfs
+shrinkage&encogimiento
+earliest&más temprano
+likeliest&mas probable
 roughly&aproximadamente ; toscamente
 brackets&paréntesis
 elderly&mayor anciano
