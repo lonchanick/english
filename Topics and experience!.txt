@@ -1,35 +1,79 @@
+===================================================================================
+	DIARIO DE APRENDIZAJE, ACA APUNTO DETALLES DE COMO LLEVAR UN MEJOR APRENDIZAJE
+===================================================================================
+
 Tu aprendizaje debe estar entorno a estas actividades
--> Memorizing
 -> Listening
+	*practicar lo mas que se pueda
+	*podcast; entendibles para tu nivel. es decir que se logre comprender de manerageneral
+		lo que se habla (no exactamente cada palabra)
+	*series eningles; que hayas visto previamente en español
+	*discurso escritos
+	*ampliar vocabulario
+-> Speaking
+-> Memorizing
 -> Reading
 -> writing
--> Speaking
+
+#Es importante hacer los ejercicios respondiendo en español, ya que lo importante es aprender a entender el ingles
+
+
+aprender nuevas palabras
+aprender nuevos verbos, regulares e irregulares
+aprender verbos frasales
+aprender expresiones
+aprender la formacion de los diferentes tiempos, presente pasado y pasado participio
+aprender gramatica esencial
+
+escuchar mucho
+	texto acomṕañado de audio
+	videos en ingles con subtitulos en ingles
+	videos en español con subtitulos en ingles
+	podcast
+
+leer mucho
+	temas de interes
 
 ===========================
 	RUTINA 11/06/2020
 ===========================
-	->Quizlet 1h
-		* vocabulario (10 palabras diarias)
-		* frasal verbs (5 diarios)
-		* expresiones (<>)
+#Listening is the most important of all of these
 
-	->Listening
-		* The Bible project videos (15 min)
-		* Daily Hope (25 min)
+->Listening 1h y 30 min (REPITE CUANTAS VECES SEA NECESARIO HASTA ENTENDER)
+	* VOA read and listent acticle
+	* VOA learn english TV episode
+	* VOA everyday gramar TV episode
+	* VOA english in a minute
+	* VOA english @ the movies
+	* Daily Hope (25 min)
+	#pudes sustituir todas estas actividades por algun video podcast que te interese, asi practicas listening y adquieres nuevas palabras
 
-					->Opcional
-						+ VOA news
-						+ musica
-						+ etc ...
+				->Opcional
+					+ VOA news
+					+ musica
+					+ etc ...
+					+ The Bible project videos
+					+ Netflix en ing
 
-	->Reading
-		* Daily Hope (10 min)
-		* Busca alguna lectura para agregar aqui PENDEJO!
+->Reading
+	* Daily Hope
+	* busca lecturas de tu nivel: los viajes de guliver
+
+->Memorizing
+Quizlet 1.5h
+	* vocabulario, 10 palabras diarias -> 30min
+	* frasal verbs (5 diarios) -> 10min
+	* expresiones (<>) -> 10min
+	* (NO VA MAS, REEMPLAZAR POR CURSO EN YOUTUBE ASI PRACTICAS MAS EL LISTENING Y APRENDES ALGO MAS AL MISMO TIEMPO) english_vocabulary_in_use_elementary.pdf ->30min (2 unidades diarias)
+
+	
 
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
-	-> consulta terminaciones de palabras en ingles Ej. ment (establishment accomplishment etc)
+	-> ever //estudia sus traducciones
+	-> Formacion de plural y casos especiales (man y woman)
+	-> consulta terminaciones (sufijos y prefijos) de palabras en ingles Ej. ment (establishment accomplishment etc)
 		* terminacion er (ej advisER, baker)
 	-> has un banco de preguntas  que podrian surgir durante una conversacion en ingles Ej. ¿como se dice TAL-COSA en ingles? ¿Podrias repetir la ultima parte? etc..
 	->......
@@ -87,6 +131,7 @@ palabras con muchas traducciones
 beat
 lead
 get
+draft
 
 
  

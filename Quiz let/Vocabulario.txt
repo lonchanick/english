@@ -1,6 +1,7 @@
 =====================
  flashcards - reglas
 =====================
+	* ->: ultimo elemento estudiado de los 3000 en la pag web
 	* El orden de la traduccion (a la derecha en definicion) es: VERBO ; SUSTANTIVO ; ADEJTIVO [DEFINICION y EJEMPLO] (en caso de que dicha palabra cuente con estos tres modos)
 	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
 	* Tratar de incluir la definicion de la mayoria de los terminos
@@ -8,11 +9,129 @@
 	* El ingles no se pronuncia como se escribe, por lo tanto concentrate en escuchar he identificar (understanding) palabras mas no en su escritura (eso podria quedar para despues)
 
 =====================
+=====================
+=====================
+|APEGATE A LA RUTINA|
+=====================	
+=====================	
+=====================	
+
+=====================
  	PENDIENTES
 =====================
+	 HACER vocabulario por temas like:
+		+ Religiones
+		+ profeciones
+		+ comidas
+		+ ropa/prendas
+		+ partes del cuerpo ...
 
+=====================
+ 	Django
+=====================
+
+=====================
+ 	f.r.i.e.n.t.s
+=====================
+carpet ºº alfombra
+club ºº palo/garrote
+cave ºº cueva caverma
+Gee ºº ¡vaya! ¡caramba! investiga la expreción
+They have issues like 'Gee, that glacier's getting kinda close.' See?  kinda ¿?
+Are you through with that?  ¿has terminado con eso?
+ammunition
+fluffed ºº mullir esponjar ..
+
+Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way  (twirly ¿?)
+
+=====================
+ 	Vocabulary
+=====================
+regret
+pouring
+soaked
+widowed
+bride
+groom
+sneeze
+====================||||| SEPARADOR |||||==============================
+behave (def. to do things in a particular way Ej. They behaved very badly towards their guests)&comportarse
+rookie&novato
+spreadsheet&hoja de cálculo
+savant (def. ​a person with great knowledge and ability)&sabio
+handouts&folleto; volante; limosna; caridad
+appraise&apreciar; evaluar
+voucher (def. a printed piece of paper that can be used instead of money to pay for something, or that allows you to pay less than the usual price of something Ej. a voucher for a free meal)&vale; cupón; comprobante
+bloom&florecer
+cautious (def. ​being careful about what you say or do, especially to avoid danger or mistakes; not taking any risks)&cauteloso
+awkward&incómodo
+toss&lanzar
+lazy&perezoso
+growth&crecimiento
+guard&guardia; guardar; proteger
+guest&invitado; huésped
+guilty&culpable
+habit&hábito
+handful&puñado
+handle&manejar; manipular; encargarse de
+hardly&apenas
+headline (Def. the title of a news article printed in large letters)&Titular; Encabezado
+heel&talón
+heritage (Def. the history, traditions, buildings and objects that a country or society has had for many years and that are considered an important part of its character Ej. Spain’s rich cultural heritage)&patrimonio
+hire&alquiler; arriendo
+historian&historiador
+-> horizon&horizonte
+mistreat (Def. to treat a person or an animal in a cruel, unkind or unfair way)&maltratar
+fleeting (Def. lasting only a short time)&temporal; pasajero; efímero
+absurd (Def. extremely silly; not logical and sensible)&absurdo
+jar&tarro; frasco; jarra
+clay&barro; arcilla
+surpasing (Def. more impressive than anything else of its kind)&Incomparable; inigualable
+feeble (Def. very weak)&débil
+pot (Def. a deep round container used for cooking things in)&olla; bote; maceta
+awestruck (Def. feeling very impressed by something Ej. People were awestruck by the pictures the satellite sent back to Earth)&impresinado
+astound (Def. very surprised or shocked by something, because it seems very unlikely Ej. How can you say that? I'm absolutely astounded)&asombrar
+round&redondo
+satellite&satélite
+neat (Def. tidy and in order; carefully done or arranged Ej. She kept her desk extremely neat)&ordenado; pulcro
+appealing&atractivo
+conflate&combinar
+varying&diverso
+transient&transitorio ; pasajero ; fugaz
+accomplishment&logro
+donate (Def.  to give money, food, clothes, etc. to somebody/something, especially a charity&donar
+assertion (Def. a statement saying that you strongly believe something to be true Ej. Do you have any evidence to support your assertions?)&declaración; afirmación
+bleachers (Def. rows of seats at a sports ground that are cheaper and not covered by a roof)&graderío; las gradas
+encapsulates&encapsula
+confused&confuso
+theist&teísta
+indeed&verdaderamente; de hecho; en verdad; ciertamente; por supuesto
+atheism&ateismo
+stance (Def. the opinions that somebody has about something and expresses publicly)&postura
+interrelated&interrelacionado
+conviction&convicción
+clarity&claridad
+slant (Def. to slope or to make something slope in a particular direction or at a particular angle Ej. The findings of the report had been slanted in favour of the manufacturers)&inclinacion; sesgo; punto de vista
+slope (surface or piece of land that slopes [is higher at one end than the other] Ej. The town is built on a slope)&pendiente; loma; ladera
+taint (def. ​to damage or harm the quality of something or the opinion that people have of somebody/something Ej. The administration was tainted with scandal)&contaminar; manchar
+growl&gruñido
+Muslim&musulman
+celestial&celestial
+dictator&dictador
+prejudicial&perjudicial
+pejorative&peyorativo
+straight (Def. not in a curve or at an angle; in a straight line)&directamente; derecho; recto
+straight away&inmediatamente (Def. sin demora)
+heap&una ruma; un monton de algo suelto; un monto; una pila de; amontonar
+undertake (Def. to promise to do something Ej. University professors both teach and undertake research)&encargarse de ; comprometerse a hacer algo
+flaw (Ej. There is still a basic flaw in your selection procedure)&defecto ; falla ; imperfección
+fair-minded&imparcial (def. No ser partidario de ningun bando o parcialidad)
+thrive (def. to become, and continue to be, successful, strong, healthy, etc. Ej. New businesses thrive in this area)&prosperar
+helpless (def. unable to take care of yourself or do things without the help of other people Ej. The worst part is being helpless to change anything)&Indefenso ; impotente ; desamparado
+ultimately (Def. in the end; finally ; at the most basic and important level)&al final ; por último ; a la larga
+abhor&aborrecer
 sunbathing&broncearse
-engulfs
+engulf (Ej. He was engulfed by a crowd of reporters)&envolver
 shrinkage&encogimiento
 earliest&más temprano
 likeliest&mas probable
@@ -22,7 +141,7 @@ elderly&mayor anciano
 beard&barba
 trainers&zapatos deportivos
 trouser&pantalon
-->grant (Ej. My request was grantedDef. to agree to give somebody what they ask for, especially formal or legal permission to do something)
+grant (Ej. My request was granted Def. to agree to give somebody what they ask for, especially formal or legal permission to do something)&conceder; otorgar
 flight&vuelo
 forth&adelante
 funding (Ej. There have been large cuts in government funding for scientific research.Def. money for a particular purpose; the act of providing money for such a purpose)&fondos
@@ -43,15 +162,13 @@ golden(Ej. a golden crown)&dorado
 grab (Ej. She grabbed his arm as he got up to leave.)&agarrar ; coger
 grain (Ej. Russia sold 12 million tons of grain abroad last year.)&grano
 grand (Ej. It's not a very grand house)&grandioso ; magnifico
-==================================================
-
 longstanding&de larga data ; que existe desde hace mucho tiempo
 replacement&reemplazo
 top court&tribunal supremo
 bumps (Ej. bumps in the highway)&Topes
 fined&multado
 antitrust&antimonopolio
-->fit&ajuste
+fit&ajuste
 finance&finanza
 fiber&fibra
 fewer&menos
@@ -71,7 +188,7 @@ locust&langosta
 lead&dirigir
 swarm&enjambre
 observance (def. the practice of obeying a law, celebrating a festival or behaving according to a particular custom Ej. a strict observance of the Sabbath)&observacia
--> fellow&colega ; compañero
+ fellow&colega ; compañero
 burst&estallar
 fate&destino
 failure&fracazo
@@ -92,7 +209,7 @@ adventurous&aventurero
 cuisines&cocina
 nationwide (Ej. But Chinese food is the top ethnic food nationwide)&A lo lago de la nacion ; A nivel nacional
 dwarf&enano
--> engineer&ingeniero
+ engineer&ingeniero
 auction&subasta
 facing&de frente a ; orientado a
 engage (Def. engage something/somebody (formal) to succeed in attracting and keeping somebody’s attention and interest Ej. It is a movie that engages both the mind and the eye)&enganchar 
@@ -114,7 +231,7 @@ downtown&centro de la ciudad
 glow&resplandor
 praise&elogio ; alabanza
 
-->dominant&dominante
+dominant&dominante
 argue&discutir
 divide&dividir
 diverse&diverso
@@ -252,7 +369,7 @@ hallmark (def. quality that is typical of a particular person or thing)&sello di
 highlight (def. make people notice or aware of something)& (ver) destacar ; (sus) resaltar ; punto culminante
 surveillance&supervisión (def. the act of carefully watching someone or something)
 
--> defendant&acusado ; demandado ; defendido
+ defendant&acusado ; demandado ; defendido
 spotlight&centro de atención ; reflextor
 perpetuate&perpetuar
 denial&negación
@@ -303,7 +420,7 @@ courage&valor ; coraje
 counselor&consejero
 cope (def.  He wasn't able to cope with the stresses and strains of the job)&hacer frente a
 thief&ladrón
--> cream&crema
+ cream&crema
 craft&arte ;  oficio
 convince&convencer
 contract&contrato
@@ -328,7 +445,7 @@ mushroom&hongo
 strength&fuerza
 boast&presumir
 in the meantime&mientras tanto
-->
+
 confidence&confianza
 concrete&cemento
 concert&concierto
@@ -394,7 +511,7 @@ commitment&compromiso
 coal&carbón
 coalition (def. formed by two or more parties working together)&coalición (def. Union entre dos partes)
 compete&competir
-->
+
 dare&atreverse
 growl&gruñir ; gruñido
 oppose&oponerse
@@ -410,7 +527,7 @@ chart&gráfico
 chase (def. to run, drive, etc. after somebody/something in order to catch them or it. ej. My dog likes chasing rabbits)&perseguir (def. ir tras de algo o alguien)
 chemical&químico
 chest&cofre
-->
+
 colleague&colega
 afresh&de nuevo
 lifelong&para toda la vida ; de por vida
@@ -424,7 +541,7 @@ carrier&transportista
 ceiling&techo
 certain&cierto
 chairman&presidente ; gobernador
-->
+
 rubble&escombros
 beneath&debajo
 heap(def. an untidy pile of something)&un monton de (def. una pila desordenada de algo)
@@ -435,7 +552,7 @@ bond (def. something that forms a connection between people or groups, such as a
 boundary&perímetro
 brand&marca (def. comercial)
 breast&ceno
-->
+
 bench(def.a long seat for several people, typically made of wood or stone)&banca ; exhibir (def. Asiento de madera o piedra)
 bean&frejol
 basket&canasta ; cesto
@@ -450,7 +567,7 @@ belief&creencia
 below&abajo ; debajo ; por debajo
 breed&raza
 bend(Def. to lean, or make something lean, in a particular direction)& (Ver) dobrar ; (Sus) curva
-->
+
 assault&asalto
 asleep&dormido
 arrest&arrestar
