@@ -517,10 +517,28 @@
 			}
 		},
 		{
+			"file": "Quiz let/Vocabulario.txt",
+			"settings":
+			{
+				"buffer_size": 32412,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "Quiz let/Verbos Frasales.txt",
 			"settings":
 			{
-				"buffer_size": 6529,
+				"buffer_size": 7576,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Quiz let/Frases expresiones y traducciones.txt",
+			"settings":
+			{
+				"buffer_size": 3274,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -599,14 +617,18 @@
 	"expanded_folders":
 	[
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Listening",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let"
 	],
 	"file_history":
 	[
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/verbos irregulares.txt",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Listening/reasonable-faith-video-podcast_#1",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Vocabulario.txt",
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Verbos Frasales.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Topics and experience!.txt",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/books/current.txt",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Verbos Frasales.txt",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/books/elementary.txt",
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/verbos irregulares.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/Quiz let/Frases expresiones y traducciones.txt",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/temp.html",
 		"/home/israel/Descargas/GloboNote/README.txt",
@@ -727,10 +749,7 @@
 		"/home/israel/DEV/proyectos/my_site/manage.py",
 		"/home/israel/DEV/python_cursos/inmersion_en_python3/a.out",
 		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/filipenses 4:19.txt",
-		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/statics/how come.txt",
-		"/home/israel/Descargas/documentos/20181019_113848.jpg",
-		"/home/israel/DEV/html_y_css_curso/nate_gentile/styles.css",
-		"/home/israel/DEV/proyectos/my_site/register/views.py"
+		"/media/israel/DE7C3D7D7C3D520F/Users/Karla/Google Drive/Spanglish/statics/how come.txt"
 	],
 	"find":
 	{
@@ -748,6 +767,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"->",
+			"8",
 			"see",
 			"->",
 			"guidelines"
@@ -802,19 +823,48 @@
 				},
 				{
 					"buffer": 1,
-					"file": "Quiz let/Verbos Frasales.txt",
+					"file": "Quiz let/Vocabulario.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6529,
+						"buffer_size": 32412,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								782,
-								782
+								2005,
+								2005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 885.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Quiz let/Verbos Frasales.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1832,
+								1832
 							]
 						],
 						"settings":
@@ -822,10 +872,38 @@
 							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 57.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Quiz let/Frases expresiones y traducciones.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3274,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1464,
+								1464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -920,7 +998,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 272.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

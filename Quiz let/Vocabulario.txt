@@ -1,7 +1,7 @@
 =====================
  flashcards - reglas
 =====================
-	* ->: ultimo elemento estudiado de los 3000 en la pag web
+	* (->): ultimo elemento estudiado de los 3000 en la pag web
 	* El orden de la traduccion (a la derecha en definicion) es: VERBO ; SUSTANTIVO ; ADEJTIVO [DEFINICION y EJEMPLO] (en caso de que dicha palabra cuente con estos tres modos)
 	* En caso de que la palabra tenga una definicion parecida a otra (lo cual se presta para confuciones) poner la definicion a la izquierda (en el termino).
 	* Tratar de incluir la definicion de la mayoria de los terminos
@@ -47,14 +47,43 @@ Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all 
 =====================
  	Vocabulary
 =====================
-regret
-pouring
-soaked
-widowed
-bride
-groom
-sneeze
+untestable&incontrolable
+feasible (def. ​that is possible and likely to be achieved Ej. It's just not feasible to manage the business on a part-time basis.)&factible; realizable
+plausible (def. reasonable and likely to be true Ej. Her story sounded perfectly plausible)&plausible
+ignoramus&ignorante
+individual&individuo
 ====================||||| SEPARADOR |||||==============================
+
+stew&estofado
+asleep&dormido
+host (def.  a person who invites guests to a meal, a party, etc. or who has people staying at their house)&anfitrión; huésped; hospedador
+guest&invitado; huésped
+household&hogar; casa; familia; doméstico
+housing&alojamiento; viviendas
+however&sin embargo
+hundred&cien
+hypothesis&hipótesis
+imply&implicar
+impose&imponer
+incorporate&incorporar
+income (def. the money that a person, a region, a country, etc. earns from work, from investing money, from business, etc.)&ingreso; renta
+-> inner&interno; interior
+
+toast&brindis
+regret (def.)&lamentar; arrepentirse; pesar
+pour&verter; derramar
+soak&empapar; remojar
+widow&viuda
+bride (def. ​a woman on her wedding day, or just before or just after it)&novia
+groom&novio
+sneeze&estornudo
+indeed (def. used to emphasize a statement, description, etc. OJO This word has many uses and definitions)&ciertamente,de hecho
+peers&compañeros
+reputable&acreditado; de buena reputación
+commendable&recomendable
+breakthrough (def. Trump called it “a breakthrough.”)&progreso; un gran avance
+impasse(def. a difficult situation in which no progress can be made because the people involved cannot agree what to do)&punto muerto; callejón; impasse
+
 behave (def. to do things in a particular way Ej. They behaved very badly towards their guests)&comportarse
 rookie&novato
 spreadsheet&hoja de cálculo
@@ -80,7 +109,7 @@ heel&talón
 heritage (Def. the history, traditions, buildings and objects that a country or society has had for many years and that are considered an important part of its character Ej. Spain’s rich cultural heritage)&patrimonio
 hire&alquiler; arriendo
 historian&historiador
--> horizon&horizonte
+horizon&horizonte
 mistreat (Def. to treat a person or an animal in a cruel, unkind or unfair way)&maltratar
 fleeting (Def. lasting only a short time)&temporal; pasajero; efímero
 absurd (Def. extremely silly; not logical and sensible)&absurdo
