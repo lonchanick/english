@@ -8,16 +8,19 @@ go on (ej. How can I go on living without you in my life? - It went on raining f
 call off (ej. They couldn’t get funding for the project so they called the whole thing off)&cancelar
 set off (ej. We will set off for Italy this weekend)&empezar un viaje; salir; partir
 see off (def. To go to a place someone is leaving and say goodbye. Ej. We went to the station with her to see her off)&despedir
-
 finish off (def. to do the last part of something; to make something end by doing one last thing)&terminar; concluir; finalizar; rematar; hacer la ultima parte de algo
 go off (ej. Did you hear the alarm go off?)&que algo explote; que algo suene
 put off (ej. We wanted to go to the exhibition,but we were put off by the long queue.)&Perder las ganas; desanimar; hacer algo aunque no se quiera
-
 rip off (def. to cheat somebody, by making them pay too much, by selling them something of poor quality, etc Ej. Tourists complain of being ripped off by local cab drivers)
 show off (def. to try to impress others by talking about your abilities, possessions, etc. Ej. He's just showing off because that girl he likes is here)&presumir; lucirse
 tell off (def. to speak angrily to somebody for doing something wrong ej. I told the boys off for making so much noise)&regañar
 Put (something) up (ej. I put some pictures up on the wall)&Colgar, poner alguna cosa en algún sitio
 Turn (something) up (def. I can’t hear the TV. Can you turn it up a bit?)&Elevar, subir
+take down (ej. I didn’t like the picture,so I took it down)&Bajar, quitar algo de algún sitio
+put down (ej. I stopped writing and put down my pen)&soltar; dejar; depositar
+bend down (ej. I bent down to tie my shoelace)&agacharse; Sentarse; tumbarse
+knock down (ej. Some old houses were knocked down to make way for the new shopping centre)&Demoler; tirar; echar abajo
+->slow down (ej. You’re driving too fast.Slow down!)&Reducir la velocidad; ir mas despacio
 
 ================|||SEPARADOR|||====================================
 ->Turn out to be (Ej. Nobody believed Paul at first,but he turned to be right&Resulta ser que

@@ -17,6 +17,7 @@ Tu aprendizaje debe estar entorno a estas actividades
 
 #Es importante hacer los ejercicios respondiendo en español, ya que lo importante es aprender a entender el ingles
 
+#Es importante colocar en las flash cards ejemplos tanto en presente como en pasado
 
 aprender nuevas palabras
 aprender nuevos verbos, regulares e irregulares
@@ -71,6 +72,7 @@ Quizlet 1.5h
 ===========================
 TEMAS PENDIENTES DE REVISAR
 ===========================
+	-> diferencia entre speech, speack, talk, etc...
 	-> ever //estudia sus traducciones
 	-> Formacion de plural y casos especiales (man y woman)
 	-> consulta terminaciones (sufijos y prefijos) de palabras en ingles Ej. ment (establishment accomplishment etc)
