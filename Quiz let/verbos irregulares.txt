@@ -1,73 +1,71 @@
-bring together
-infinitive  Preterite  Past participle 
-draw drew drawn
-wear
-bend
-
-=======================================================
-
+=========================================================
 --------------------------------------------------------
 INFINITIVO - PASADO SIMPLE - PASADO PARTICIPIO			|
 pensar - pensado - pensaba <> think - thought - thought |
 --------------------------------------------------------
 
-mean meant meant,significar - significaba - signficado
-Costar ,cost - cost - cost
-Cortar ,cut - cut - cut
-Poner ,put - put - put
-Leer ,read - read - read
-Alimentar ,Feed - Fed - Fed
-Sangrar ,Bleed - Bled - Bled	
-Acelerar ,Speed - Sped - Sped
-Sentir (se) ,feel - felt - felt
-Dormir ,sleep - slept - slept
-Irse/Dejar ,leave - left - left
-Empezar , begin - began - begun
-Beber ,drink - drank - drunk
-Correr ,run - ran - run
-Cantar ,sing - sang - sung
-Construir ,build - built - built
-Gastar ,spend - spent - spent
-Enviar ,send - sent - sent
-Prestar ,lend - lent - lent
-Comer ,eat - ate - eaten
-Caer (se),fall - fell - fallen
-Dar ,give - gave - given
-Romper ,break - broke - broken
-Elegir ,choose - chose - chosen
-Olvidar ,forget - forgot - forgotten
-Conducir ,drive - drove - driven
-Hablar ,speak - spoke - spoken
-Tomar ,take - took - taken
-Quemar ,burn - burnt - burnt
-Soñar ,dream - dreamt - dreamt
-Aprender ,learn - learnt - learnt
-Perder ,lose - lost - lost
-Traer ,bring - brought - brought
-Enseñar ,teach - taught - taught
-Coger ,catch - caught - caught
-Pensar ,think thought - thought
-Comprar ,buy - bought - bought
-Luchar/Pelear ,fight - fought - fought
-Tener/Haber ,have - had - had
-Oir ,hear - heard - heard
-Pagar ,pay - paid - paid
-Decir ,say - said - said
-Hacer ,make - made - made
-Ganar ,win - won - won
-Obtener ,get - got - got
-Entender ,understand - understood - understood
-Soportar - Estar - Quedar,stand - stood - stood
-ser/estar ,be - was/were - been
-Poder ,can - could - been able to
-Ver ,see - saw - seen
-Hacer ,do - did - done
-Ir (se) ,go - went - gone
-Tener que ,must - had to - had to
-Venir ,come - came - come
-Saber ,know - knew - known
-Mostrar Enseñar ,show - showed - shown
-Volar ,fly - flew - flown
-usar(llevar puesto),wear - wore - worn
-equivocar - confundir - malinterpretar,mistaken - mistook - mistaken
-tirar - lanzar - hechar,throw - threw - thrown
+draw - drew - drawn&dibujar
+wear - wore - worn&llevar (def. to have something on your body as a piece of clothing, a decoration, etc Ej. He was wearing a new suit)
+bend - bent - bent&doblarse
+seek - sought - sought&buscar
+Shut - Shut - Shut&cerrar; apagar
+mean meant meant&significar
+cost - cost - cost&Costar
+cut - cut - cut&Cortar
+put - put - put&Poner
+read - read - read&Leer
+Feed - Fed - Fed&Alimentar
+Bleed - Bled - Bled&Sangrar
+Speed - Sped - Sped&Acelerar
+feel - felt - felt&Sentir (se)
+sleep - slept - slept&Dormir
+leave - left - left&Irse/Dejar
+begin - began - begun&Empezar
+drink - drank - drunk&Beber
+run - ran - run&Correr
+sing - sang - sung&Cantar
+build - built - built&Construir
+spend - spent - spent&Gastar
+send - sent - sent&Enviar
+lend - lent - lent&Prestar
+eat - ate - eaten&Comer
+fall - fell - fallen&Caer (se)
+give - gave - given&Dar
+break - broke - broken&Romper
+choose - chose - chosen&Elegir
+forget - forgot - forgotten&Olvidar
+drive - drove - driven&Conducir
+speak - spoke - spoken&Hablar
+take - took - taken&Tomar
+burn - burnt - burnt&Quemar
+dream - dreamt - dreamt&Soñar
+learn - learnt - learnt&Aprender
+lose - lost - lost&Perder
+bring - brought - brought&Traer
+teach - taught - taught&Enseñar
+catch - caught - caught&Coger
+think thought - thought&Pensar
+buy - bought - bought&Comprar
+fight - fought - fought&Luchar/Pelear
+have - had - had&Tener/Haber
+hear - heard - heard&Oir
+pay - paid - paid&Pagar
+say - said - said&Decir
+make - made - made&Hacer
+win - won - won&Ganar
+get - got - got&Obtener
+understand - understood - understood&Entender
+stand - stood - stood&Soportar - Estar - Quedar
+be - was/were - been&ser/estar
+can - could - been able to&Poder
+see - saw - seen&Ver
+do - did - done&Hacer
+go - went - gone&irse
+must - had to - had to&Tener que
+come - came - come&Venir
+know - knew - known&Saber
+show - showed - shown&Mostrar Enseñar
+fly - flew - flown&Volar
+wear - wore - worn&usar(llevar puesto)
+mistaken - mistook - mistaken&equivocar - confundir - malinterpretar
+throw - threw - thrown&tirar - lanzar - echar
