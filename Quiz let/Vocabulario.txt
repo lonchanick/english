@@ -26,17 +26,7 @@
 		+ ropa/prendas
 		+ partes del cuerpo ...
 
-=====================
- 	f.r.i.e.n.t.s
-=====================
-carpet ºº alfombra
-club ºº palo/garrote
-cave ºº cueva caverma
-Gee ºº ¡vaya! ¡caramba! investiga la expreción
-They have issues like 'Gee, that glacier's getting kinda close.' See?  kinda ¿?
-Are you through with that?  ¿has terminado con eso?
-ammunition
-fluffed ºº mullir esponjar ..
+
 
 Monica- Hi! Um, Monica, you're scaring me. I mean, you're like, you're like all chaotic and twirly. And not-not in a good way  (twirly ¿?)
 
@@ -50,10 +40,26 @@ articulo | son los mismos de siempre
 frasal verb | en sus diferentes tiempos
 
 =====================
+ 	nomenclatura
+=====================
+vrb-> es un verbo
+sus-> es un sustantivo
+adj-> es un adjetivo
+note-> es una nota aclaratoria relacionada con la definición de la palabra
+
+=====================
  	Vocabulary
 =====================
-mug -> jarron
-footage
+====================||||| SEPARADOR |||||==============================
+irk (verb)&fastidiar (def. someone or something that bothers you Note. The verb irk means "annoy," so if the incessant barking of your next door neighbor's pug is driving you crazy, you can say that the noise irks you - Ej. It really irks me whenever a hotel room isn’t clean)
+carpet&tapiz ; tapete; alfombra (Note: A carpet is a thick, woven floor covering. Most carpets cover the whole floor in a room, as opposed to a rug, which only covers a small section)
+cave&Caverna (A cave is hollow space underground that's big enough for a person to walk or crawl into. People who explore caves often wear battery-powered headlamps)
+Gee&¡vaya! ; ¡caramba! (def. a word that some people use to show that they are surprised, impressed or annoyed)
+ammunition& munición (note: Soldiers carry their ammunition: the bullets and shells needed for their guns.)
+fluffed&esponjado ; mullido
+crawl&arrastrarse
+mug&tazón(note. Mug is a funny word that could represent a cup, your face, or even what you do when you rob someone. And, if you mug someone for their mug, you may end up getting a mug shot taken of your guilty face. Confusing? Read on)
+footage&Footage is a section of film or video that's been shot or recorded; size or length measured in feet
 business days&día laboral
 boulder&roca (def. A boulder is a rock — a big one)
 purchase& (verb) comprar ; (sus) adquisición
@@ -109,27 +115,11 @@ aroused&despertado
 forsake&avandonar (To forsake another person is to leave them entirely, usually in a moment of need.)
 outgrow&ser demaciado grande para
 
-Why does he tie that to -> por qué lo relaciona con ..
-picked up the tab -> pagar la cuenta
-Lust is when you start doing. -> lust
-“kick back” = relax
-make something of oneself (idiom): become successful in a career
-off the top of your head (idiom): think of something immediately without preparation
-“stretch the truth” = exaggerate the truth
-“chow down” = eat enthusiastically = “The kids couldn’t wait to chow down the bacon and eggs for breakfast.”
-“pig out” = eat a lot of food = “Don’t let the children pig out on pizza and soda. They need to eat vegetables, too.”
-“kick back” = relax
-I can’t win either way
-“hit the road” = start to travel
-“off the beaten path” = an area that people usually don’t visit
-I thought this bus was heading to Chicago
-“run out of steam” = lose energy, become tired
-“Our team played well during the first part of the game, but they ran out of steam.”
-
-
-
-
 ====================||||| SEPARADOR |||||==============================
+hasta aqui estan agregadas las palabras al quizlet
+las palabras de aqui hacia arriba empiezo con anki
+====================||||| SEPARADOR |||||==============================
+
 recall&recordar
 occupies&acupa
 amusement park&parque de atracciones
